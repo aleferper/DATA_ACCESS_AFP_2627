@@ -1,0 +1,13 @@
+<!-- ERROR: bad passport, bad phone and missing lastname -->
+<passengers>
+<passenger>
+<passportno>123ABC</passportno>
+<firstname>Maria</firstname>
+<lastname>Lopez</lastname>
+<phone>61A11</phone>
+</passenger>
+<passenger>
+<passportno>T1111111</passportno>
+<firstname>Pedro</firstname>
+</passenger>
+</passengers>
